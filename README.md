@@ -9,14 +9,11 @@
 * 3. [Table of Contents](#description)
   4. [Screenshot](#screenshot)
 * 5. [Links](#links)
-* 6. [How to use the Application](#how to use the application)
-* 7. [Future Developments](#future developments)
-* 9. [How to Contact me](#contact me)
-* 10. [Credits](#)
+* 6. [Credits](#)
 
 
 ## Screenshot
-
+![Screenshot of application](./assets/images/application.png)
 
 
 
@@ -31,7 +28,9 @@
 * Then, you will have to input teh README information
 
 ## Future Developments
-- 
+- Hopefull be able to successfully excute app in command line
+- add more licenses
+- have a demenstrating license to the demo README
 
 
 
