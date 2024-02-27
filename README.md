@@ -4,25 +4,30 @@
 * This is Node.js Challenge 9: Professional README Generator. In this module I was tasked with writing the functions for the README GENERATOR. In this module challenge, we have to write functions for a License for the README, and the Markdown for the README. 
 
 ## Table of Contents
-* 1. Description
-* 2. Table of Contents
-* 3. Links
-* 4. License
-* 5. How to use the Application
-* 6. How to Contact me
-* 7. Credits
+* 1. [License](#)
+* 2. [Description](#description)
+* 3. [Table of Contents](#description)
+* 4. [Links](#links)
+* 5. [How to use the Application]()
+* 6. [Future Developments](#)
+* 7. [How to Contact me](#)
+* 8. [Credits](#)
 
 ## Links
 * [Link to Repo](https://github.com/Jakkiexplore/README_more)
-* [LINK to video]()
-
-
+* [LiNK to video]()
 
 
 ## How to use the README GENERATOR
 * Make sure to install node index.js
 * Now install npm install inquirer
 * Then, you will have to input teh README information
+
+## Future Developments
+- 
+
+
+
 
 ## CONTACT ME
 * GMAIL: (yangjakki@gmail.com)
