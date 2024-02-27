@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "* This is Node.js Challenge 9: Professional README Generator. In this module I was tasked with writing the functions for the README GENERATOR. In this module challenge, we have to write functions for a License for the README, and the Markdown for the README.",
+  "main": "index.js",
+  "scripts": {
+    "test": "install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakkiexplore/README_more.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "Jakki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jakkiexplore/README_more/issues"
+  },
+  "homepage": "https://github.com/Jakkiexplore/README_more#readme",
+  "dependencies": {
+    "inquirer": "^9.2.15"
+  }
+}
