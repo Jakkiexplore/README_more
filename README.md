@@ -7,18 +7,25 @@
 * 1. [License](#)
 * 2. [Description](#description)
 * 3. [Table of Contents](#description)
-* 4. [Links](#links)
-* 5. [How to use the Application]()
-* 6. [Future Developments](#)
-* 7. [How to Contact me](#)
-* 8. [Credits](#)
+  4. [Screenshot](#screenshot)
+* 5. [Links](#links)
+* 6. [How to use the Application](#how to use the application)
+* 7. [Future Developments](#future developments)
+* 9. [How to Contact me](#contact me)
+* 10. [Credits](#)
+
+
+## Screenshot
+
+
+
 
 ## Links
 * [Link to Repo](https://github.com/Jakkiexplore/README_more)
 * [LiNK to video]()
 
 
-## How to use the README GENERATOR
+## How to use the Application
 * Make sure to install node index.js
 * Now install npm install inquirer
 * Then, you will have to input teh README information
